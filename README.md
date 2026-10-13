@@ -24,4 +24,4 @@ Repo automation saya ada di terpisah: [QA-Automation-Practice](https://github.co
 
 ## Penulis
 
-[NAMA KAMU] — [LINK LINKEDIN]
+[Syaifa Turrohman] — [https://www.linkedin.com/in/syaifa-turrohman/]
